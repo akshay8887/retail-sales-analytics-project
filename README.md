@@ -20,4 +20,4 @@ Python → MySQL → SQL Analysis → Power BI Dashboard
 
 ## Dashboard Preview
 
-![Dashboard](images/Dashboard_preview.png)
+![Dashboard](images/Dashboard_Preview.png)
